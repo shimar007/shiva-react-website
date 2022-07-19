@@ -1,1 +1,15 @@
-@import "../scss/base/app.scss";
+//including vendor files
+@import "../scss/vendor/rfs.scss";
+
+//including misc files
+@import "../scss/misc/breakpoints.scss";
+
+//including variables files
+@import "../scss/variables/variables.scss";
+
+//including base files
+@import "../scss/base/base.scss";
+
+//including components files
+@import "../scss/components/logo.scss";
+@import "../scss/components/left-right-component.scss";
