@@ -1,0 +1,13 @@
+.button {
+    display: inline-block;
+    background-color: var(--sr-grey);
+    padding: 12px 20px;
+    border-radius: 4px;
+    transition: all .3s;
+
+    &:hover {
+        text-decoration: none !important;
+        color: var(--sr-black) !important;
+        background-color: var(--sr-white);
+    }
+}

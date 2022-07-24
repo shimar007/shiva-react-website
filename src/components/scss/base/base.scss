@@ -6,20 +6,21 @@ html {
 }
 
 body {
-    @include font-size(1.8rem);
+    @include font-size(1.6rem);
     line-height: 1.278;
     font-family: var(--font-source-sans-pro);
     font-weight: 400;
     margin: 0;
+    color: var(--sr-black);
 }
 
 h1 {
-    @include font-size(4.5rem);
+    @include font-size(5rem);
     font-weight: 600;   
 }
 
 h2 {
-    @include font-size(4rem);
+    @include font-size(3.5rem);
     font-weight: 600;
 }
 
@@ -29,8 +30,14 @@ h3 {
     line-height: 1.1em;
 }
 
+h4 {
+    @include font-size(2rem);
+    font-weight: 600;
+    line-height: 1.1em;
+}
+
 p {
-    color: var(--bs-dark);
+    color: var(--sr-black);
 }
 
 .container {
