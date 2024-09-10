@@ -29,13 +29,13 @@ function LeftRightComponent() {
                         <ul>
                             <li><strong>Web / Scripting Languages</strong> ReactJs, React Native, PHP, HTML5 JQuery / JavaScript, VueJs</li>
                             <li><strong>Content Management Systems</strong> - Drupal [8 &amp; 7] & WordPress</li>
-                            <li><strong>Languages</strong> - Python</li>
+                            <li><strong>Languages</strong> - Python, SpringBoot</li>
                             <li><strong>CSS Extension Language</strong> - SASS</li>
-                            <li><strong>DBMS</strong> - MySQL, MSSQL</li>
-                            <li><strong>HTML5 Authoring Tools</strong> - Google Web Designer</li>
+                            <li><strong>DBMS</strong> - MySQL, MSSQL, Postgres, Oracle Autonomous Transaction Processing</li>
+                            <li><strong>Frameworks</strong> - NextJs, NestJs</li>
                             <li><strong>Frameworks / SDKs</strong> - Laravel, CodeIgniter</li>
                             <li><strong>Project Management Tools</strong> - JIRA, Redmine, Avaza, Airtable</li>
-                            <li><strong>Testing Tools</strong> - PHPUnit</li>
+                            <li><strong>Testing Tools</strong> - PHPUnit / Jest / Mockito</li>
                         </ul>
                     </div>
                 </div>
@@ -56,7 +56,7 @@ function LeftRightComponent() {
                         <p><strong>Call on:</strong> <a href="tel:+61422672625">+61422672625</a></p>
                         <p><strong>Email on:</strong> <a href="mailto:+61422672625">shimar007@gmail.com</a></p>
                         <div class="resume-download">
-                            <a href="https://shivakumarr.com/sites/default/files/documents/Shivakumar-Ramamurthy_2.pdf" className="button" target="_blank" rel="noreferrer">Download Resume</a>
+                            <a href="https://shivakumarr.com/sites/default/files/documents/Shivakumar-Ramamurthy_2.pdf" className="button" target="_blank" rel="noopener noreferrer">Download Resume</a>
                         </div>
                     </div>
                 </div>
